@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/MainWindow">
+        <file>chess.png</file>
+    </qresource>
+    <qresource prefix="/test_prefix">
+        <file>chess.png</file>
+    </qresource>
+</RCC>
